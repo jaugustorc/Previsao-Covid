@@ -1,2 +1,4 @@
-# Previsao-Covid
-Previsão da COVID-19 no Brasil desde o início da pandemia em fevereiro de 2020.
+# projeto_eda_covid
+Projeto Digital Innovation One em parceria com o Prof. Dr. Neylson Crepalde
+
+Análise exploratória dos dados do COVID-19 com Python.
